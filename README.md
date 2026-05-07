@@ -14,12 +14,10 @@
 </p>
 
 <p align="center">
-  <!-- Replace YOUR_LINKEDIN_URL -->
   <a href="https://www.linkedin.com/in/toshak-garg" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <!-- Replace YOUR_PORTFOLIO_URL -->
   <a href="https://toshakgarg.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -28,7 +26,6 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=toshakgarg&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" />
 </p>
 
 </div>
@@ -166,14 +163,14 @@ Lightweight ML model on Edge Impulse for real-world object classification withou
 > 📌 **Suggested pinned repos:** `RFID-Door-Lock` · `eCon-Sentiment` · `Bluetooth-Robotic-Car` · `Object-Classification-EdgeImpulse` · `Data-Science-Projects` · `portfolio`
 
 ---
-
+<!--
 ## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=toshakgarg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=22d3ee&text_color=f8fafc&count_private=true" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=toshakgarg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=22d3ee&text_color=f8fafc&count_private=true" />
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toshakgarg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&text_color=f8fafc&langs_count=8" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=toshakgarg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&text_color=f8fafc&langs_count=8" />
 
 </div>
 
@@ -188,7 +185,7 @@ Lightweight ML model on Edge Impulse for real-world object classification withou
 [![Toshak's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=toshakgarg&theme=tokyo-night&hide_border=true&bg_color=0a0a0f&color=6366f1&line=22d3ee&point=f8fafc)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
+-->
 ---
 
 ## 🏆 Leadership & Community
